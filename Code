@@ -1,0 +1,354 @@
+## 홈페이지 HTML Code
+
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>오픈이노베이션 밋업 신청 | G-바이오 오픈이노베이션 밋업</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="naver-site-verification" content="e023a069af803da499c4341c4803be3c2fb43ae3" />
+
+
+<link rel="stylesheet" href="https://bizmatch.kr/css/default.css?ver=1757826200">
+<link rel="stylesheet" href="https://bizmatch.kr/css/media.css?ver=1757826200" media="screen and (max-width:736px)">
+<link rel="stylesheet" href="https://bizmatch.kr/css/subpage.css?ver=1757826200">
+<link rel="stylesheet" href="https://bizmatch.kr/js/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://bizmatch.kr/css/swiper.min.css?ver=1757826200"> 
+<!-- addStyle -->
+<!--[if lte IE 8]>
+<script src="https://bizmatch.kr/js/html5.js"></script>
+<![endif]-->
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://bizmatch.kr";
+var g5_bbs_url   = "https://bizmatch.kr/bbs";
+var g5_is_member = "1";
+var g5_is_admin  = "event";
+var g5_is_mobile = "G5_IS_MOBILE";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = ".bizmatch.kr";
+</script>
+<script src="https://bizmatch.kr/js/jquery-1.12.4.js"></script>
+<script src="https://bizmatch.kr/js/jquery-ui.js"></script>
+<script src="https://bizmatch.kr/js/common.js?ver=1757826200"></script>
+<script src="https://bizmatch.kr/js/wrest.js?ver=1757826200"></script>
+<script src="https://bizmatch.kr/js/placeholders.min.js"></script>
+<script src="https://bizmatch.kr/js/myscript.js?ver=1757826200"></script>
+<script src="https://bizmatch.kr/js/modernizr.custom.70111.js"></script>
+<!-- ▼ 링크 미리보기(OG) 메타태그 ▼ -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GBSA | 비즈매치">
+<meta property="og:title" content="G-바이오 오픈이노베이션 밋업 | 신청 안내">
+<meta property="og:description" content="9/24(수) 수원컨벤션센터, 섹션별 파트너와 1:1 비즈니스 미팅. 자세한 정보와 참가신청은 클릭!">
+<meta property="og:url" content="https://bizmatch.kr/GBSA">
+<meta property="og:image" content="https://bizmatch.kr/data/editor/2509/dba9bb76cfea0ceee38eb639ee4e2769_1756695160_9114.png">
+<meta property="og:image:secure_url" content="https://bizmatch.kr/data/editor/2509/dba9bb76cfea0ceee38eb639ee4e2769_1756695160_9114.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1705">   <!-- 원본 가로 픽셀 -->
+<meta property="og:image:height" content="726">   <!-- 원본 세로 픽셀 -->
+
+<!-- 트위터 카드(다채널 호환용) -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="G-바이오 오픈이노베이션 밋업 | 신청 안내">
+<meta name="twitter:description" content="9/24(수) 수원컨벤션센터, 섹션별 파트너와 1:1 비즈니스 미팅. 자세한 정보와 참가신청은 클릭!">
+<meta name="twitter:image" content="https://bizmatch.kr/data/editor/2509/dba9bb76cfea0ceee38eb639ee4e2769_1756695160_9114.png">
+
+
+<!-- ▼ 기존 Channel Plugin Script ▼ -->
+<script>
+  (function() {
+    var w = window;
+    if (w.ChannelIO) {
+      return (window.console.error || window.console.log || function(){})('ChannelIO script included twice.');
+    }
+    var ch = function() { ch.c(arguments); };
+    ch.q = [];
+    ch.c = function(args) { ch.q.push(args); };
+    w.ChannelIO = ch;
+    function l() {
+      if (w.ChannelIOInitialized) return;
+      w.ChannelIOInitialized = true;
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = 'https://cdn.channel.io/plugin/ch-plugin-web.js';
+      s.charset = 'UTF-8';
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+    if (document.readyState === 'complete') {
+      l();
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', l);
+    } else {
+      window.addEventListener('DOMContentLoaded', l, false);
+      window.addEventListener('load', l, false);
+    }
+  })();
+  ChannelIO('boot', {
+    "pluginKey": "96793d96-b615-4171-8662-be25817573ff"
+  });
+</script>
+<!-- End Channel Plugin -->
+<script src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+<script src="https://bizmatch.kr/js/swiper.min.js"></script>
+</head>
+<body>
+<div id="hd_login_msg">navion님 로그인 중 <a href="https://bizmatch.kr/bbs/logout.php">로그아웃</a></div>
+<!-- 팝업레이어 시작 { -->
+<div id="hd_pop">
+    <h2>팝업레이어 알림</h2>
+
+
+    <div id="hd_pops_18" class="hd_pops" style="top:50px;left:10px">
+        <div class="hd_pops_con" style="width:354px;height:591px">
+            <meta http-equiv="content-type" content="text/html; charset=euc-kr">
+<title>제목 없음</title>
+<meta name="generator" content="Namo WebEditor(Trial)">
+
+
+
+<p align="left" style="text-align: left;"><img src="http://danapat.cafe24.com/tt/GBSA/GBIO.png" border="0" usemap="#ImageMap1"></p>
+<map name="ImageMap1">
+<area shape="rect" coords="7, 11, 350, 584" href="https://www.g-bioai.com/" target="_blank">
+</map>
+
+        </div>
+        <div class="hd_pops_footer">
+            <button class="hd_pops_reject hd_pops_18 24"><strong>24</strong>시간 동안 다시 열람하지 않습니다.</button>
+            <button class="hd_pops_close hd_pops_18">닫기 <i class="fa fa-times" aria-hidden="true"></i></button>
+        </div>
+    </div>
+</div>
+
+<script>
+$(function() {
+    $(".hd_pops_reject").click(function() {
+        var id = $(this).attr('class').split(' ');
+        var ck_name = id[1];
+        var exp_time = parseInt(id[2]);
+        $("#"+id[1]).css("display", "none");
+        set_cookie(ck_name, 1, exp_time, g5_cookie_domain);
+    });
+    $('.hd_pops_close').click(function() {
+        var idb = $(this).attr('class').split(' ');
+        $('#'+idb[1]).css('display','none');
+    });
+    $("#hd").css("z-index", 1000);
+});
+</script>
+<!-- } 팝업레이어 끝 --><style type="text/css">
+	#header:before{background-color:rgb(255, 255, 255)}
+	.hd_link a{color:rgb(0, 0, 0)}
+	#btnMobileMenu{color:rgb(0, 0, 0)}
+	#topMenu dd > a{color:rgb(0, 0, 0)}
+	#topMenu dd > a:before{ background:rgb(0, 0, 0)}
+	#topMenu dd > a strong:after{background:rgb(0, 0, 0)}
+	#footer{color:rgb(255, 255, 255)}
+	#footer a{color:rgb(255, 255, 255)}
+	#footer:before{background-color:rgb(0, 46, 64)}
+	#main_visual{height:770px}
+
+	.content_tab a.on{ border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0); z-index:2;}
+	.content_tab.no_select dl dd a.on{ border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0); z-index:2;}
+	.content_tab dt{ border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0); z-index:2;}
+	.btn_submit{background:rgb(255, 255, 255);  color:rgb(0, 0, 0); }
+	.btn_submit:hover{background:rgb(255, 255, 255);  color:rgb(0, 0, 0); }
+	a.btn_b02, .btn_b02{background:rgb(255, 255, 255);  color:rgb(0, 0, 0); }
+
+	#tech_list dl dd .tech_img.no_image{background-image:url(https://bizmatch.kr/data/homepage/GBSA/cf_logo); background-color:rgb(0, 0, 0); background-size:80%}
+	#tech_list dl dd .tech_img.no_image:after{position:absolute; bottom:1rem; left:0; right:0; content:"NO IMAGE"; color:rgb(0, 0, 0); text-align:center; opacity:.6}
+	#tech_list dl dd .btn_request a:hover{border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+	#tech_list dl dd .btn_request a.btn_mulit_meeting.on{border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+
+	#changeListMode dd.on{ z-index:1;border-color:rgb(255, 255, 255); background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+
+	#tech_header .tech_info .tech_cate dt{background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+	#tech_header .tech_info .kf_step{background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+
+	#tech_header .tech_info .tech_tail a.btn_meeting{background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+	.finish_table dd.on strong{background:rgb(255, 255, 255); color:rgb(0, 0, 0)}
+	#tech_header .tech_image span.active:before{border-color:rgb(255, 255, 255);}
+	#tech_header .tech_image span.active:after{border-bottom-color:rgb(255, 255, 255);}
+
+
+
+	#tech_list .section .it_tech .set_data{ background:rgb(255, 255, 255); color:rgb(0, 0, 0);  }
+	#tech_list .section .it_tech .set_data.on{ background:rgb(255, 255, 255); color:rgb(0, 0, 0);  }
+
+
+	/*지원사업안내*/
+	#list_block dl dd a:hover{ background:rgb(255, 255, 255);  color:rgb(0, 0, 0);  }
+
+	.m_color{background:rgb(255, 255, 255) !important; border-color:rgb(255, 255, 255) !important;  color:rgb(0, 0, 0) !important;  }
+	.m_color:hover{background:rgb(255, 255, 255) !important;  color:rgb(0, 0, 0) !important; }
+
+
+
+	#selectTech{background:rgb(45, 139, 163); color:rgb(255, 255, 255);}
+	#selectTech:hover{background:rgb(218, 139, 163); color:rgb(255, 255, 255);}
+
+
+
+</style>
+<div id="bodyWrap" class="head1line">
+
+
+<div id="header" class="wrap ">
+
+		<h1><a href="https://bizmatch.kr/index.php?ho_id=GBSA"><img src='https://bizmatch.kr/data/homepage/GBSA/cf_logo' /></a></h1>
+		<ul class="hd_link">
+
+            <li><a href='https://bizmatch.kr/adm/config_form.php?ho_id=GBSA''>행사관리자</a></li>
+
+									<li><a href="https://bizmatch.kr/bbs/logout.php?ho_id=GBSA">로그아웃</a></li>
+			<li><a href="https://bizmatch.kr/bbs/member_confirm.php?url=https://bizmatch.kr/bbs/register_form.php&ho_id=GBSA">정보수정</a></li>
+								</ul>
+		<div id="topMenu">
+			 		<dl>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/content.php?co_id=GBSA1"><strong>오픈이노베이션 밋업 신청</strong></a>
+ 			</dd>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/board.php?ho_id=GBSA&bo_table=tech"><strong>기술 마켓플레이스 신청(사업화 유망기술1) </strong></a>
+ 			</dd>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/board.php?ho_id=GBSA&bo_table=tech2"><strong>기술 마켓플레이스 신청(사업화 유망기술2) </strong></a>
+ 			</dd>
+					</dl>		</div>
+	<button id="btnMobileMenu"><i class="iconfont icon-basic-menu"></i></button>
+</div>
+
+
+<div id="mobileMenu">
+	<section>
+        <ol>
+                        <li><a href="https://bizmatch.kr/bbs/logout.php">LOGOUT</a></li>
+            <li><a href="https://bizmatch.kr/bbs/member_confirm.php?url=https://bizmatch.kr/bbs/register_form.php">MODIFY</a></li>
+                    </ol>
+		 		<dl>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/content.php?co_id=GBSA1"><strong>오픈이노베이션 밋업 신청</strong></a>
+ 			</dd>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/board.php?ho_id=GBSA&bo_table=tech"><strong>기술 마켓플레이스 신청(사업화 유망기술1) </strong></a>
+ 			</dd>
+						<dd>
+				<a href="https://bizmatch.kr/bbs/board.php?ho_id=GBSA&bo_table=tech2"><strong>기술 마켓플레이스 신청(사업화 유망기술2) </strong></a>
+ 			</dd>
+					</dl>	</section>
+		<a href="javascript:;"  class="btn_close">닫기</a>
+</div>
+
+<script>
+$(function() {
+	$("#btnMobileMenu").click(function(){
+		$("#mobileMenu").fadeIn("slow");
+		$("#mobileMenu section").animate({right:0},300);
+		$("#mobileMenu > a").animate({right:'70%'},300);
+	});
+	$("#mobileMenu > a").click(function(){
+		$("#mobileMenu").fadeOut("slow");
+		$("#mobileMenu section").animate({right:'-70%'},300);
+		$("#mobileMenu > a").animate({right:'100%'},300);
+	});
+	$("#mobileMenu section dd > a").click(function(){
+
+ 		if($(this).next("ul").length){
+			var $thisli = $(this).parent("dd");
+			$("#mobileMenu section dd.active").not($thisli).removeClass('active');
+			$thisli.toggleClass('active');
+ 			return false;
+		}
+	});
+});
+</script>
+
+
+
+<div id="main_visual">
+	<ul class="swiper-wrapper">
+		<li class='swiper-slide'><iframe frameborder=0 height='100%' width='100%' scrolling='no' src='https://bizmatch.kr/iframe_content.php?ho_id=GBSA&f=cf_main_visual1'></iframe></li> 	</ul>
+	<div class="mvpn wrap">
+		<a class="swiper-button-prev"></a>
+		<a class="swiper-button-next"></a>
+	</div>
+	<div class="swiper-pagination"></div>
+</div>
+
+
+<script>
+	var swiper = new Swiper('#main_visual', {
+		pagination: {
+			clickable: true,
+			el: '#main_visual .swiper-pagination',
+		  },
+		  navigation: {
+			nextEl: '#main_visual .swiper-button-next',
+			prevEl: '#main_visual .swiper-button-prev',
+		  },
+		loop:true,
+		effect: 'fade',
+		  autoplay: {
+			delay: 5000,
+			disableOnInteraction: false,
+		  },
+	});
+</script>
+
+
+
+
+
+
+
+<footer id="footer" class="wrap">
+	<h1><a href="https://bizmatch.kr"><img src='' /></a></h1>
+	<article>
+		<address>
+			<span>주소: 수원컨벤션센터 컨벤션홀 2 (3층)</span>						<span>대표전화: 02-6407-2197</span>						<span>이메일주소: humble@navion.biz</span>		</address>
+		<a href="/bbs/privacy.php?ho_id=GBSA" class="btn_privacy">개인정보 처리방침</a>
+		<p></p>
+	</article>
+</footer>
+
+
+</div>
+<!-- 목록스킨:  -->
+<!-- 내용스킨:  -->
+<!-- 쓰기스킨:  -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0QQP1CQZD0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0QQP1CQZD0');
+</script>
+
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+<!-- 오픈이노베이션 밋업 신청 -->
+</body>
+</html>
